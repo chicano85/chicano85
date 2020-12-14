@@ -4,7 +4,7 @@
 <p>Front-end developer</p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Ángela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelachicanocano/)](https://www.linkedin.com/in/angelachicanocano/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/chicano85?label=Follow&style=social)
 
 
 
