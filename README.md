@@ -14,7 +14,7 @@ const angela = {
   code: [Javascript, React, HTML, CSS, SASS ],
   tools: [Visual Code, Git, GitHub, Gulp, Node],
   communication tools: [Trello, Slack, Zoom, GitHub Projects],
-  work methodology: "Agile",
+  workMethodology: "Agile",
 }
 ```
 
