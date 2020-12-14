@@ -1,12 +1,11 @@
-### Hi! 👋
-<h2>I'm Ángela Chicano!</h2>
+<h2>I'm Ángela Chicano! 👋</h2>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 <p><em>Front-end developer</em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Ángela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelachicanocano/)](https://www.linkedin.com/in/angelachicanocano/)
 ![GitHub followers](https://img.shields.io/github/followers/chicano85?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/j2jqN2mSLNEIcW2hIZ/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/Jo7zgRsPUxypoJHK3N/giphy.gif" width="50"> A little more about me...  
 
 
 
