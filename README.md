@@ -13,7 +13,7 @@ const angela = {
   pronouns: "she" | "her",
   code: [Javascript, React, HTML, CSS, SASS ],
   tools: [Visual Code, Git, GitHub, Gulp, Node],
-  communication tools: [Trello, Slack, Zoom, GitHub Projects],
+  communicationTools: [Trello, Slack, Zoom, GitHub Projects],
   workMethodology: "Agile",
 }
 ```
