@@ -8,17 +8,13 @@
 ### <img src="https://media.giphy.com/media/Jo7zgRsPUxypoJHK3N/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const angela = {
+  surname: "Chicano",
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Javascript, React, HTML, CSS, SASS ],
+  tools: [Visual Code, Git, GitHub, Gulp, Node],
+  communication tools: [Trello, Slack, Zoom, GitHub Projects],
+  work methodology: "Agile",
 }
 ```
 
