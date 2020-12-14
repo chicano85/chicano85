@@ -1,4 +1,4 @@
-<h2>I'm Ángela Chicano! 👋</h2>
+<h2>Hi! I'm Ángela Chicano! 👋</h2>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 <p><em>Front-end developer</em></p>
 
