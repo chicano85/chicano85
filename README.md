@@ -12,7 +12,7 @@ const angela = {
   surname: "Chicano",
   pronouns: "she" | "her",
   code: [Javascript, React, HTML, CSS, SASS ],
-  tools: [Visual Code, Git, GitHub, Gulp, Node],
+  tools: [Visual Code, Git, GitHub, Gulp, NodeJS],
   communicationTools: [Trello, Slack, Zoom, GitHub Projects],
   workMethodology: "Agile",
 }
