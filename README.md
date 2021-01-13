@@ -11,8 +11,8 @@
 const angela = {
   surname: "Chicano",
   pronouns: "she" | "her",
-  code: [Javascript, React, HTML, CSS, SASS ],
-  tools: [Visual Code, Git, GitHub, Gulp, NodeJS, npm],
+  code: [Javascript, React, HTML, CSS, SASS, NodeJS],
+  tools: [Visual Code, Git, GitHub, Gulp, npm],
   communicationTools: [Trello, Slack, Zoom, GitHub Projects],
   workMethodology: "Agile",
 }
